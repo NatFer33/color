@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Scheme: Vibrant Pastels</title>
+  <style>
+    th {
+      font-style: italic;
+      color: #333;
+    }
+    td {
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <table border="1">
+    <tr>
+      <th>Color Name</th>
+      <th>Hex</th>
+      <th>RGB</th>
+      <th>HSL</th>
+    </tr>
+    <tr>
+      <td style="background-color: #FF8C94;">Rose</td>
+      <td>#FF8C94</td>
+      <td>rgb(255, 140, 148)</td>
+      <td>hsl(355, 100%, 75%)</td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFD700;">Gold</td>
+      <td>#FFD700</td>
+      <td>rgb(255, 215, 0)</td>
+      <td>hsl(50, 100%, 50%)</td>
+    </tr>
+    <tr>
+      <td style="background-color: #9ACD32;">Lime</td>
+      <td>#9ACD32</td>
+      <td>rgb(154, 205, 50)</td>
+      <td>hsl(74, 61%, 50%)</td>
+    </tr>
+    <tr>
+      <td style="background-color: #87CEEB;">Sky Blue</td>
+      <td>#87CEEB</td>
+      <td>rgb(135, 206, 235)</td>
+      <td>hsl(197, 72%, 73%)</td>
+    </tr>
+  </table>
+
+</body>
+</html>
